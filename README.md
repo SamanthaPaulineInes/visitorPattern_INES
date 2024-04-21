@@ -33,3 +33,4 @@ Test your codes before the given client program:
     }
 
 # UML Diagram
+![Screenshot 2024-04-21 222922](https://github.com/SamanthaPaulineInes/visitorPattern_INES/assets/142489430/7021eaa3-3a46-4245-b09b-ef4bdb355d51)
